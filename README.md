@@ -6,7 +6,7 @@
 
 Academic project to predict whether a client will subscribe to a financial product after a direct marketing campaign. Implements multiple classification algorithms with comprehensive performance evaluation.
 
-**Professor:** Salvador  
+**Professor:** Salvador García (UGR)
 **Data:** Private (confidentiality commitment with partner university)
 
 ---
@@ -38,7 +38,7 @@ Bank_Marketing_Project/
 
 ### How to obtain the data:
 
-1. **Contact the professor (Salvador)** to request access to:
+1. **Contact the professor (Salvador García)** to request access to:
    - `bank-full.csv` (45,211 records, 20 variables)
    - `bank.csv` (4,521 records, 20 variables)
 
@@ -165,8 +165,8 @@ source("00_setup/_setup.R")  # Configures everything automatically
 
 ## 👤 Author
 
-**Ezequiel** - Student  
-**Professor:** Salvador
+**Ezequiel S. López Fernández** - Student  
+**Professor:** Salvador García (UGR)
 
 ---
 
